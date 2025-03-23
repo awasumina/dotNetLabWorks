@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS codes\\dotnet lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\swapClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\swapClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\primeClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\primeClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\naturalSumClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\naturalSumClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\nameHelloPrint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\nameHelloPrint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\leapClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\leapClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\largestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\largestClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\factorialSum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\factorialSum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\evenOddClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\evenOddClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS codes\\dotnet lab\\labWorks\\lab2\\arraySum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:labWorks\\lab2\\arraySum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-23T11:50:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "swapClass.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\swapClass.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\swapClass.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\swapClass.cs",
+              "RelativeToolTip": "labWorks\\lab2\\swapClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\Program.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\Program.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\Program.cs",
+              "RelativeToolTip": "labWorks\\lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:30.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "primeClass.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\primeClass.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\primeClass.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\primeClass.cs",
+              "RelativeToolTip": "labWorks\\lab2\\primeClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:29.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "naturalSumClass.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\naturalSumClass.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\naturalSumClass.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\naturalSumClass.cs",
+              "RelativeToolTip": "labWorks\\lab2\\naturalSumClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:27.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nameHelloPrint.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\nameHelloPrint.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\nameHelloPrint.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\nameHelloPrint.cs",
+              "RelativeToolTip": "labWorks\\lab2\\nameHelloPrint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:26.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "leapClass.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\leapClass.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\leapClass.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\leapClass.cs",
+              "RelativeToolTip": "labWorks\\lab2\\leapClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:23.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "largestClass.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\largestClass.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\largestClass.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\largestClass.cs",
+              "RelativeToolTip": "labWorks\\lab2\\largestClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:21.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T11:47:33.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "factorialSum.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\factorialSum.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\factorialSum.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\factorialSum.cs",
+              "RelativeToolTip": "labWorks\\lab2\\factorialSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:19.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "evenOddClass.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\evenOddClass.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\evenOddClass.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\evenOddClass.cs",
+              "RelativeToolTip": "labWorks\\lab2\\evenOddClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:18.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "arraySum.cs",
+              "DocumentMoniker": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\arraySum.cs",
+              "RelativeDocumentMoniker": "labWorks\\lab2\\arraySum.cs",
+              "ToolTip": "D:\\VS codes\\dotnet lab\\labWorks\\lab2\\arraySum.cs",
+              "RelativeToolTip": "labWorks\\lab2\\arraySum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T11:50:17.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
