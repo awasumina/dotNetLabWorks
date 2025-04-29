@@ -1,0 +1,17 @@
+D:\VS codes\dotnet lab\classWorks\loginWinform\bin\Debug\net8.0-windows\loginWinform.exe
+D:\VS codes\dotnet lab\classWorks\loginWinform\bin\Debug\net8.0-windows\loginWinform.deps.json
+D:\VS codes\dotnet lab\classWorks\loginWinform\bin\Debug\net8.0-windows\loginWinform.runtimeconfig.json
+D:\VS codes\dotnet lab\classWorks\loginWinform\bin\Debug\net8.0-windows\loginWinform.dll
+D:\VS codes\dotnet lab\classWorks\loginWinform\bin\Debug\net8.0-windows\loginWinform.pdb
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.Form1.resources
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.csproj.GenerateResource.cache
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.AssemblyInfoInputs.cache
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.AssemblyInfo.cs
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.csproj.CoreCompileInputs.cache
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.sourcelink.json
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.dll
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\refint\loginWinform.dll
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.pdb
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\loginWinform.genruntimeconfig.cache
+D:\VS codes\dotnet lab\classWorks\loginWinform\obj\Debug\net8.0-windows\ref\loginWinform.dll
