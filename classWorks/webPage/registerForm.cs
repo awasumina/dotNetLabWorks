@@ -1,11 +1,17 @@
+//using FormInheritance;
+using System.Reflection;
 using webPage;
+using webPage.Models;
+using webPage.Service;
 namespace Calculator
+
 {
     public partial class registerForm : Form
     {
         public registerForm()
         {
             InitializeComponent();
+            getAllUsers();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -20,6 +26,21 @@ namespace Calculator
 
         private void label3_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void getAllUsers()
+        {
+            DatabaseService databaseService = new DatabaseService();
+            var result = databaseService.getAllUsers();
+            if (result != null)
+            {
+                registerFormBindingSource.DataSource = result;
+            }
+            else
+            {
+                MessageBox.Show("Error: ");
+            }
 
         }
 
@@ -77,8 +98,49 @@ namespace Calculator
             //display a message saying registered:
             MessageBox.Show("Register button is clicked");
             //DialogResult result = MessageBox.Show("Are you sure you want to exit?", "Confirm Exit", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            //textBox1.Text==""?0:Convert.ToInt32(textBox1.Text);
+            //string name = textBox1.Text;
+            //int age = (int)numericUpDown1.Value;
+            //string Province = comboBox1.Text.Trim();
+
+            string name = textBox1.Text.Trim();
+            int age = (int)numericUpDown1.Value;
+            string province = comboBox1.Text.Trim();
+            string district = comboBox2.Text.Trim();
+            //bool hasSkill = checkedListBox1.CheckedItems.Count > 0;
+
+            // Determine selected gender
+            //string gender = "";
+            //if (radioButton1.Checked)
+            //    gender = "Male";
+            //else
+            //    gender = "Female";
 
 
+            //// Validation check
+            if (string.IsNullOrEmpty(name) || age <= 16 || string.IsNullOrEmpty(province) ||
+                string.IsNullOrEmpty(district))
+            {
+                MessageBox.Show("Please fill all the fields properly, select a gender, and choose at least one skill.",
+                                "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                // Pass gender to Reg form if needed (not shown here)
+                //Reg welcomeForm = new Reg();
+                //welcomeForm.Show();
+                //this.Hide();
+            }
+            RegisterForm register = new RegisterForm()
+            {
+                Name = name,
+                Age = age,
+                //Gender = gender,
+                District = district,
+                Province = province,
+            };
+            DatabaseService databaseService = new DatabaseService();
+            string message = databaseService.load_register(register);
 
         }
 
@@ -101,5 +163,11 @@ namespace Calculator
         {
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
     }
 }
